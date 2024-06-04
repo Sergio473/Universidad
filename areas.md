@@ -1,0 +1,4 @@
+# AREAS ACADEMICAS
+
+1. TICs
+2. IEE
